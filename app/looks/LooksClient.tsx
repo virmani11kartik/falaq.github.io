@@ -2,6 +2,7 @@
 
 import { useState, useMemo } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import type { Look } from '@/lib/content';
 
 interface LooksClientProps {
@@ -31,7 +32,7 @@ export default function LooksClient({ looks, categories }: LooksClientProps) {
         {/* Header */}
         <div className="text-center mb-16 animate-fade-in">
           <h1 className="font-display text-5xl md:text-6xl text-charcoal mb-6">
-            Lookbook
+            Look Book
           </h1>
           <p className="font-body text-xl text-warm-gray max-w-3xl mx-auto">
             Browse my collection of styled looks for every season and occasion. 
@@ -85,10 +86,22 @@ export default function LooksClient({ looks, categories }: LooksClientProps) {
             <Link
               key={look.slug}
               href={`/looks/${look.slug}`}
-              className={`group animate-scale-in stagger-${(index % 6) + 1}`}
+              // className={`group animate-scale-in stagger-${(index % 6) + 1}`}
+              className="group"
+
             >
               <div className="relative aspect-[3/4] rounded-2xl overflow-hidden mb-4 bg-sand">
+                <Image
+                  src={look.coverImage}
+                  alt={look.title}
+                  fill
+                  className="object-cover"
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                  priority={index < 6}
+                />
+
                 <div className="absolute inset-0 bg-gradient-to-t from-charcoal/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+
                 <div className="absolute bottom-0 left-0 right-0 p-6 text-white transform translate-y-4 group-hover:translate-y-0 opacity-0 group-hover:opacity-100 transition-all duration-300">
                   <div className="flex flex-wrap gap-2 mb-3">
                     <span className="inline-block px-3 py-1 bg-rose rounded-full text-sm">

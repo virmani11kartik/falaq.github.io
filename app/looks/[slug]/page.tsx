@@ -1,6 +1,8 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { getLookBySlug, getAllLooks } from '@/lib/content';
+import Image from "next/image";
+
 
 export async function generateStaticParams() {
   const looks = getAllLooks();
@@ -87,15 +89,15 @@ export default function LookDetailPage({ params }: { params: { slug: string } })
             {/* Gallery */}
             <div className="mb-12 space-y-6 animate-slide-up">
               {look.galleryImages.map((image, index) => (
-                <div key={index} className="relative aspect-[3/4] rounded-2xl overflow-hidden bg-sand">
-                  {/* Placeholder for actual images */}
-                  <div className="absolute inset-0 flex items-center justify-center text-warm-gray">
-                    <p className="text-center px-4">
-                      {look.title} - Image {index + 1}
-                      <br />
-                      <span className="text-sm text-taupe">({image})</span>
-                    </p>
-                  </div>
+                <div key={image} className="relative aspect-[3/4] rounded-2xl overflow-hidden bg-sand">
+                  <Image
+                    src={image}
+                    alt={`${look.title} photo ${index + 1}`}
+                    fill
+                    className="object-cover"
+                    sizes="(max-width: 1024px) 100vw, 66vw"
+                    priority={index === 0}
+                  />
                 </div>
               ))}
             </div>
@@ -182,7 +184,23 @@ export default function LookDetailPage({ params }: { params: { slug: string } })
                   href={`/looks/${relatedLook.slug}`}
                   className={`group animate-scale-in stagger-${index + 1}`}
                 >
+                  {/* <div className="relative aspect-[3/4] rounded-2xl overflow-hidden mb-4 bg-sand">
+                    <div className="absolute inset-0 bg-gradient-to-t from-charcoal/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    <div className="absolute bottom-0 left-0 right-0 p-6 text-white transform translate-y-4 group-hover:translate-y-0 opacity-0 group-hover:opacity-100 transition-all duration-300">
+                      <span className="inline-block px-3 py-1 bg-rose rounded-full text-sm mb-2">
+                        {relatedLook.category}
+                      </span>
+                    </div>
+                  </div> */}
+
                   <div className="relative aspect-[3/4] rounded-2xl overflow-hidden mb-4 bg-sand">
+                    <Image
+                      src={relatedLook.coverImage}
+                      alt={relatedLook.title}
+                      fill
+                      className="object-cover"
+                      sizes="(max-width: 768px) 100vw, (max-width: 1200px) 33vw, 25vw"
+                    />
                     <div className="absolute inset-0 bg-gradient-to-t from-charcoal/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                     <div className="absolute bottom-0 left-0 right-0 p-6 text-white transform translate-y-4 group-hover:translate-y-0 opacity-0 group-hover:opacity-100 transition-all duration-300">
                       <span className="inline-block px-3 py-1 bg-rose rounded-full text-sm mb-2">

@@ -682,6 +682,12 @@ video {
 .h-full{
   height: 100%;
 }
+.h-\[70vh\]{
+  height: 70vh;
+}
+.h-\[10vh\]{
+  height: 10vh;
+}
 .min-h-screen{
   min-height: 100vh;
 }
@@ -994,6 +1000,18 @@ video {
 .object-cover{
   -o-object-fit: cover;
      object-fit: cover;
+}
+.object-\[50\%_15\%\]{
+  -o-object-position: 50% 15%;
+     object-position: 50% 15%;
+}
+.object-\[50\%_10\%\]{
+  -o-object-position: 50% 10%;
+     object-position: 50% 10%;
+}
+.object-\[80\%_40\%\]{
+  -o-object-position: 80% 40%;
+     object-position: 80% 40%;
 }
 .p-12{
   padding: 3rem;
@@ -1430,6 +1448,10 @@ button:focus-visible {
 
   .md\:hidden{
     display: none;
+  }
+
+  .md\:h-\[80vh\]{
+    height: 80vh;
   }
 
   .md\:w-auto{

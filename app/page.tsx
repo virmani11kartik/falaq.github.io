@@ -9,16 +9,16 @@ export default function Home() {
   return (
     <div>
       {/* Hero Section */}
-      <section className="relative h-[85vh] flex items-center justify-center overflow-hidden">
-        {/* <div className="absolute inset-0">
+      <section className="relative h-[70vh] md:h-[80vh] flex items-center justify-center overflow-hidden">        <div className="absolute inset-0">
         <img 
           src="/images/hero/profile.jpg" 
           alt="Fashion with Falaq" 
-          className="w-full h-full object-cover"
+          // className="w-full h-full object-cover"
+          className="w-full h-full object-cover object-[80%_40%]"
         />
         <div className="absolute inset-0 bg-gradient-to-br from-black/30 to-black/10"></div>
-        </div> */}
-        <div className="absolute inset-0 bg-gradient-to-br from-sand/30 to-rose/20"></div>
+        </div>
+        {/* <div className="absolute inset-0 bg-gradient-to-br from-sand/30 to-rose/20"></div> */}
         <div className="relative z-10 text-center px-4 animate-fade-in">
           <h1 className="font-display text-5xl md:text-7xl lg:text-8xl text-charcoal mb-6 stagger-1 animate-slide-up">
             Fashion with Falaq
