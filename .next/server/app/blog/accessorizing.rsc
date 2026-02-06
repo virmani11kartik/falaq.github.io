@@ -1,0 +1,190 @@
+2:I[2972,["972","static/chunks/972-11fe03f12f1d323d.js","308","static/chunks/app/blog/%5Bslug%5D/page-cd40cd2ce7eb653b.js"],""]
+4:I[4707,[],""]
+6:I[6423,[],""]
+7:I[4196,["972","static/chunks/972-11fe03f12f1d323d.js","185","static/chunks/app/layout-249ad676f5511e46.js"],"default"]
+3:T2622,<h1>The Art of Accessorizing: How to Complete Every Look</h1>
+<p>Accessories are the difference between dressed and <em>dressed</em>. They&#39;re the exclamation point to your outfit, the details that make people remember what you wore.</p>
+<p>But accessorizing isn&#39;t about piling on everything you own. It&#39;s about intentional choices that enhance, not overwhelm. Here&#39;s how to master it.</p>
+<h2>The Foundation: Start Simple</h2>
+<p>Before you add anything, look at your base outfit. What&#39;s it missing?</p>
+<ul>
+<li>Visual weight (too plain)?</li>
+<li>Color (too neutral)?</li>
+<li>Interest (too basic)?</li>
+<li>Personality (too safe)?</li>
+</ul>
+<p>Your accessories should fill these gaps, not create new ones.</p>
+<p><strong>Falaq Tip:</strong> Take a photo of your outfit before adding accessories, then after. The difference will help you see what&#39;s working.</p>
+<h2>The Three-Accessory Rule</h2>
+<p>A good starting point: choose three accessories from different categories.</p>
+<p><strong>Examples:</strong></p>
+<ul>
+<li>Earrings + necklace + watch</li>
+<li>Bag + shoes + sunglasses</li>
+<li>Belt + earrings + rings</li>
+<li>Scarf + shoes + bracelet</li>
+</ul>
+<p>This creates balance without overwhelming. You can always add more, but start here.</p>
+<h2>Jewelry Wisdom</h2>
+<h3>Mixing Metals</h3>
+<p>Forget the &quot;don&#39;t mix gold and silver&quot; rule. Mixed metals look modern and effortless when done intentionally.</p>
+<p><strong>How to mix well:</strong></p>
+<ul>
+<li>Choose one dominant metal (60-70% of pieces)</li>
+<li>Add accents in other metals</li>
+<li>Or go truly mixed with equal amounts</li>
+<li>Keep the style consistent (all delicate or all chunky)</li>
+</ul>
+<p><strong>Falaq Tip:</strong> Rose gold is the ultimate bridge between yellow gold and silver. It works beautifully with both.</p>
+<h3>Layering Necklaces</h3>
+<p>The secret to great necklace layering:</p>
+<ul>
+<li>Vary lengths (2-inch difference minimum)</li>
+<li>Mix chain types and weights</li>
+<li>Keep to odd numbers (3 or 5 works better than 2 or 4)</li>
+<li>Anchor with one statement piece</li>
+</ul>
+<p><strong>The formula:</strong></p>
+<ul>
+<li>Shortest: Choker or 14-16 inches</li>
+<li>Medium: 18-20 inches</li>
+<li>Longest: 24+ inches</li>
+</ul>
+<h3>Statement vs. Subtle</h3>
+<p>One statement piece per outfit is usually enough. If your earrings are bold, keep your necklace simple. If you&#39;re wearing a statement necklace, go minimal everywhere else.</p>
+<p><strong>Falaq Tip:</strong> Your &quot;statement&quot; piece doesn&#39;t have to be jewelry. A bold bag, shoes, or belt can be your statement, with jewelry kept simple.</p>
+<h2>Bag Strategy</h2>
+<p>Your bag should work with your outfit, not just match it perfectly.</p>
+<p><strong>Considerations:</strong></p>
+<ul>
+<li><strong>Size:</strong> Proportional to your frame and outfit</li>
+<li><strong>Color:</strong> Complements or contrasts intentionally</li>
+<li><strong>Style:</strong> Matches the formality level</li>
+<li><strong>Function:</strong> Actually holds what you need</li>
+</ul>
+<p><strong>Color Rules:</strong></p>
+<ul>
+<li>Neutral bags (black, brown, taupe, nude) work with everything</li>
+<li>Colored bags work best with neutral outfits</li>
+<li>Metallic bags (gold, silver) are surprisingly versatile</li>
+<li>Match your bag to your shoes OR intentionally contrast</li>
+</ul>
+<p><strong>Falaq Tip:</strong> Invest in 3-4 quality bags in different styles rather than dozens of trendy options: structured tote for work, crossbody for casual, clutch for evening, and a fun seasonal color.</p>
+<h2>Shoe Psychology</h2>
+<p>Shoes dramatically change an outfit&#39;s vibe:</p>
+<ul>
+<li><strong>Sneakers:</strong> Casual, approachable, youthful</li>
+<li><strong>Loafers:</strong> Smart-casual, polished, intentional</li>
+<li><strong>Heels:</strong> Formal, elegant, elevated</li>
+<li><strong>Boots:</strong> Edgy, cool, confident</li>
+<li><strong>Sandals:</strong> Relaxed, easy, warm-weather</li>
+</ul>
+<p>The same dress with different shoes tells a completely different story.</p>
+<p><strong>Falaq Tip:</strong> When unsure, nude or metalllic shoes elongate legs and work with almost everything.</p>
+<h2>Belt Magic</h2>
+<p>Belts aren&#39;t just functional—they&#39;re transformative.</p>
+<p><strong>When to add a belt:</strong></p>
+<ul>
+<li>Create waist definition in loose garments</li>
+<li>Add interest to monochrome outfits</li>
+<li>Cinch oversized pieces</li>
+<li>Complete a high-waisted look</li>
+<li>Add personality with unique buckles</li>
+</ul>
+<p><strong>Belt widths:</strong></p>
+<ul>
+<li>Thin (&lt; 1 inch): Subtle definition, works with most outfits</li>
+<li>Medium (1-2 inches): Standard belt, most versatile</li>
+<li>Wide (&gt; 2 inches): Statement piece, creates strong waist definition</li>
+</ul>
+<p><strong>Falaq Tip:</strong> Belt oversized blazers and cardigans at the waist for an instantly more polished, intentional look.</p>
+<h2>Scarf Styling</h2>
+<p>Scarves are the most versatile accessory:</p>
+<ul>
+<li>Classic neck wrap</li>
+<li>Tied on bag handles</li>
+<li>As a belt</li>
+<li>Head wrap or headband</li>
+<li>Draped over shoulders</li>
+</ul>
+<p><strong>Silk scarves</strong> add elegance and vintage charm
+<strong>Chunky knit scarves</strong> add coziness and texture
+<strong>Light cotton scarves</strong> add interest without weight</p>
+<p><strong>Falaq Tip:</strong> Buy scarves in patterns or colors you don&#39;t wear in clothing. They&#39;re a risk-free way to experiment with trends and prints.</p>
+<h2>Sunglasses Statement</h2>
+<p>Sunglasses might be the most impactful accessory:</p>
+<ul>
+<li><strong>Oversized:</strong> Glamorous, mysterious</li>
+<li><strong>Cat-eye:</strong> Retro, feminine</li>
+<li><strong>Aviators:</strong> Cool, classic</li>
+<li><strong>Round:</strong> Quirky, vintage</li>
+<li><strong>Square:</strong> Bold, modern</li>
+</ul>
+<p>Choose frames that balance your face shape and reflect your personality.</p>
+<p><strong>Falaq Tip:</strong> Have at least two pairs: one versatile everyday pair and one statement pair for when you want to make an impact.</p>
+<h2>Hat Game</h2>
+<p>Hats elevate instantly but intimidate many. Start with:</p>
+<ul>
+<li><strong>Baseball caps:</strong> Casual, youthful (wear with elevated casual)</li>
+<li><strong>Wide-brim hats:</strong> Elegant, bohemian (with dresses and flowing pieces)</li>
+<li><strong>Berets:</strong> Chic, artistic (with tailored pieces)</li>
+<li><strong>Beanies:</strong> Cozy, relaxed (with winter layers)</li>
+</ul>
+<p><strong>Falaq Tip:</strong> Wear hats with confidence. The awkward feeling passes after a few wears, and suddenly you&#39;ll feel naked without them.</p>
+<h2>Watch Wisdom</h2>
+<p>A watch is both functional and stylish:</p>
+<ul>
+<li><strong>Leather strap:</strong> Classic, versatile</li>
+<li><strong>Metal bracelet:</strong> Sleek, professional</li>
+<li><strong>Fabric strap:</strong> Casual, colorful</li>
+<li><strong>Smart watch:</strong> Modern, functional</li>
+</ul>
+<p>Your watch should fit your daily style—if you never wear it, it&#39;s not the right one.</p>
+<h2>The Art of Subtraction</h2>
+<p>Sometimes the best accessorizing move is removing something.</p>
+<p>Before leaving your house, remove one thing. If you don&#39;t miss it, you made the right choice.</p>
+<p><strong>Coco Chanel&#39;s rule:</strong> &quot;Before you leave the house, look in the mirror and remove one accessory.&quot; Still relevant.</p>
+<h2>Personality Pieces</h2>
+<p>The most memorable accessories reflect personality:</p>
+<ul>
+<li>Vintage finds with stories</li>
+<li>Cultural pieces with meaning</li>
+<li>Handmade items</li>
+<li>Inherited jewelry</li>
+<li>Unusual combinations</li>
+</ul>
+<p>These pieces make your style uniquely yours.</p>
+<p><strong>Falaq Tip:</strong> Don&#39;t save special pieces for special occasions. Wear your grandmother&#39;s bracelet on Tuesday. Use the beautiful bag. Life is the special occasion.</p>
+<h2>Common Mistakes</h2>
+<p><strong>Too matchy:</strong> Everything doesn&#39;t need to match perfectly. A bit of contrast creates interest.</p>
+<p><strong>Too much:</strong> If you feel weighed down by accessories, you&#39;re wearing too many.</p>
+<p><strong>Too safe:</strong> All neutral, all minimal can be boring. Take small risks.</p>
+<p><strong>Wrong scale:</strong> Tiny accessories on large frames or huge pieces on petite frames can look off.</p>
+<h2>Building Your Collection</h2>
+<p>Start with versatile pieces:</p>
+<ul>
+<li>Quality watch</li>
+<li>Classic handbag</li>
+<li>Versatile shoes in neutral</li>
+<li>Simple gold and silver jewelry</li>
+<li>One statement piece you love</li>
+</ul>
+<p>Then add personality:</p>
+<ul>
+<li>Colorful or patterned bags</li>
+<li>Statement jewelry</li>
+<li>Unique shoes</li>
+<li>Scarves in prints</li>
+<li>Fun seasonal items</li>
+</ul>
+<p><strong>Falaq Tip:</strong> Buy one special accessory per season. Over time, you&#39;ll build a curated collection without overwhelming yourself or your budget.</p>
+<h2>Final Thoughts</h2>
+<p>Accessorizing is personal. There&#39;s no perfect formula. What makes you feel complete might overwhelm someone else.</p>
+<p>Pay attention to how you feel. When an outfit feels finished, stop. When something&#39;s missing, experiment. When people compliment your style, notice what you&#39;re wearing.</p>
+<p>The goal isn&#39;t to follow rules—it&#39;s to develop your eye and your signature style. That comes with practice, experimentation, and knowing yourself.</p>
+<p><strong>Falaq Tip:</strong> Photograph your favorite looks. Over time, you&#39;ll see patterns in how you accessorize. This is your style signature developing—lean into it.</p>
+<p>Trust yourself. Your instincts about what works for you are better than any rule book.</p>
+5:["slug","accessorizing","d"]
+8:T42e,M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z0:["0UiKM5yXxE4dz4mJ0fX5V",[[["",{"children":["blog",{"children":[["slug","accessorizing","d"],{"children":["__PAGE__?{\"slug\":\"accessorizing\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","accessorizing","d"],{"children":["__PAGE__",{},[["$L1",["$","div",null,{"className":"min-h-screen bg-cream","children":["$","div",null,{"className":"max-w-4xl mx-auto px-4 py-12","children":[["$","$L2",null,{"href":"/blog","className":"inline-flex items-center text-warm-gray hover:text-charcoal transition-colors mb-8","children":[["$","svg",null,{"className":"w-5 h-5 mr-2","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M15 19l-7-7 7-7"}]}],"Back to Blog"]}],["$","article",null,{"className":"animate-fade-in","children":[["$","div",null,{"className":"mb-8","children":[["$","span",null,{"className":"inline-block px-4 py-1.5 bg-sand text-charcoal rounded-full text-sm font-medium mb-4","children":"Styling Tips"}],["$","h1",null,{"className":"font-display text-4xl md:text-5xl text-charcoal mb-4","children":"The Art of Accessorizing: How to Complete Every Look"}],["$","p",null,{"className":"text-taupe text-sm","children":"June 17, 2024"}]]}],["$","div",null,{"className":"relative aspect-[16/9] rounded-2xl overflow-hidden bg-sand mb-12","children":["$","div",null,{"className":"absolute inset-0 flex items-center justify-center text-warm-gray","children":["$","p",null,{"className":"text-center px-4","children":["The Art of Accessorizing: How to Complete Every Look",["$","br",null,{}],["$","span",null,{"className":"text-sm text-taupe","children":["(","/images/blog/accessorizing.jpg",")"]}]]}]}]}],["$","div",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","div",null,{"className":"mt-16 p-8 bg-gradient-to-br from-sand/50 to-rose/10 rounded-2xl","children":["$","div",null,{"className":"flex items-start gap-6","children":[["$","div",null,{"className":"w-20 h-20 rounded-full bg-taupe flex-shrink-0"}],["$","div",null,{"children":[["$","h3",null,{"className":"font-display text-2xl text-charcoal mb-2","children":"Falaq"}],["$","p",null,{"className":"text-warm-gray mb-4","children":"Fashion consultant and personal stylist helping people discover their unique style. When I'm not styling clients or creating content, you'll find me exploring vintage shops and testing new outfit combinations."}],["$","$L2",null,{"href":"/about","className":"inline-block text-charcoal hover:text-rose transition-colors font-medium","children":"Learn more about me →"}]]}]]}]}]]}],["$","div",null,{"className":"mt-20","children":[["$","h2",null,{"className":"font-display text-3xl text-charcoal mb-8","children":"Related Articles"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-8","children":[["$","$L2","styling-tricks",{"href":"/blog/styling-tricks","className":"group animate-scale-in stagger-1","children":[["$","div",null,{"className":"relative aspect-[4/3] rounded-2xl overflow-hidden mb-4 bg-sand","children":["$","div",null,{"className":"absolute inset-0 bg-gradient-to-t from-charcoal/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"}]}],["$","span",null,{"className":"inline-block px-3 py-1 bg-sand rounded-full text-sm text-warm-gray mb-2","children":"Styling Tips"}],["$","h3",null,{"className":"font-display text-xl text-charcoal mb-2 group-hover:text-rose transition-colors","children":"5 Styling Tricks That Instantly Elevate Any Outfit"}],["$","p",null,{"className":"font-body text-warm-gray text-sm line-clamp-2","children":"Small changes that make a big impact—learn the styling secrets that transform basic outfits into magazine-worthy looks."}]]}]]}]]}],["$","div",null,{"className":"mt-20 p-8 bg-charcoal text-cream rounded-2xl text-center","children":[["$","h3",null,{"className":"font-display text-2xl mb-4","children":"Want More Style Tips?"}],["$","p",null,{"className":"text-sand mb-6","children":"Subscribe to get the latest fashion advice and lookbook updates straight to your inbox."}],["$","$L2",null,{"href":"/contact","className":"inline-block px-6 py-3 bg-rose text-white rounded-full hover:bg-white hover:text-charcoal transition-all font-medium","children":"Get in Touch"}]]}]]}]}],null],null],null]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d5c73a626e2ad683.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","link",null,{"rel":"icon","href":"/favicon.ico"}]}],["$","body",null,{"children":[["$","$L7",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-charcoal text-cream","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-4 gap-12","children":[["$","div",null,{"className":"col-span-1 md:col-span-2","children":[["$","h3",null,{"className":"font-display text-2xl mb-4","children":"Fashion with Falaq"}],["$","p",null,{"className":"text-sand mb-6 leading-relaxed","children":"Your destination for personal style inspiration, seasonal lookbooks, and honest fashion advice. Join me on a journey of discovering your signature style."}],["$","div",null,{"className":"flex space-x-4","children":[["$","a",null,{"href":"https://instagram.com","target":"_blank","rel":"noopener noreferrer","className":"text-sand hover:text-rose transition-colors","aria-label":"Instagram","children":["$","svg",null,{"className":"w-6 h-6","fill":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"d":"$8"}]}]}],["$","a",null,{"href":"https://pinterest.com","target":"_blank","rel":"noopener noreferrer","className":"text-sand hover:text-rose transition-colors","aria-label":"Pinterest","children":["$","svg",null,{"className":"w-6 h-6","fill":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"d":"M12 0c-6.627 0-12 5.372-12 12 0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738.098.119.112.224.083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.631-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146 1.124.347 2.317.535 3.554.535 6.627 0 12-5.373 12-12 0-6.628-5.373-12-12-12z"}]}]}],["$","a",null,{"href":"https://tiktok.com","target":"_blank","rel":"noopener noreferrer","className":"text-sand hover:text-rose transition-colors","aria-label":"TikTok","children":["$","svg",null,{"className":"w-6 h-6","fill":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"d":"M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-5.2 1.74 2.89 2.89 0 0 1 2.31-4.64 2.93 2.93 0 0 1 .88.13V9.4a6.84 6.84 0 0 0-1-.05A6.33 6.33 0 0 0 5 20.1a6.34 6.34 0 0 0 10.86-4.43v-7a8.16 8.16 0 0 0 4.77 1.52v-3.4a4.85 4.85 0 0 1-1-.1z"}]}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display text-lg mb-4","children":"Explore"}],["$","ul",null,{"className":"space-y-3","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/looks","className":"text-sand hover:text-rose transition-colors","children":"Looks"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/blog","className":"text-sand hover:text-rose transition-colors","children":"Blog"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/about","className":"text-sand hover:text-rose transition-colors","children":"About"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/work-with-me","className":"text-sand hover:text-rose transition-colors","children":"Work With Me"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display text-lg mb-4","children":"Connect"}],["$","ul",null,{"className":"space-y-3","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/contact","className":"text-sand hover:text-rose transition-colors","children":"Contact Me"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/privacy","className":"text-sand hover:text-rose transition-colors","children":"Privacy & Disclaimer"}]}]]}]]}]]}],["$","div",null,{"className":"border-t border-warm-gray mt-12 pt-8 flex flex-col md:flex-row justify-between items-center","children":[["$","p",null,{"className":"text-sand text-sm","children":["© ",2026," Fashion with Falaq. All rights reserved."]}],["$","p",null,{"className":"text-sand text-sm mt-4 md:mt-0","children":"Designed with love for fashion enthusiasts everywhere"}]]}]]}]}]]}]]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"The Art of Accessorizing: How to Complete Every Look | Fashion with Falaq Blog"}],["$","meta","3",{"name":"description","content":"Master the finishing touches that transform good outfits into unforgettable ones."}],["$","meta","4",{"name":"author","content":"Falaq"}],["$","meta","5",{"name":"keywords","content":"fashion blog, style tips, lookbook, fashion consultant, outfit inspiration, seasonal style"}],["$","meta","6",{"property":"og:title","content":"The Art of Accessorizing: How to Complete Every Look"}],["$","meta","7",{"property":"og:description","content":"Master the finishing touches that transform good outfits into unforgettable ones."}],["$","meta","8",{"property":"og:image","content":"http://localhost:3000/images/blog/accessorizing.jpg"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"The Art of Accessorizing: How to Complete Every Look"}],["$","meta","11",{"name":"twitter:description","content":"Master the finishing touches that transform good outfits into unforgettable ones."}],["$","meta","12",{"name":"twitter:image","content":"http://localhost:3000/images/blog/accessorizing.jpg"}]]
+1:null

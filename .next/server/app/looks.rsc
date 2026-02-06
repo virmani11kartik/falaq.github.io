@@ -1,0 +1,224 @@
+2:I[4882,["972","static/chunks/972-11fe03f12f1d323d.js","878","static/chunks/878-f53b2616e16808c4.js","525","static/chunks/app/looks/page-43a219cdb63e5135.js"],"default"]
+f:I[4707,[],""]
+10:I[6423,[],""]
+11:I[4196,["972","static/chunks/972-11fe03f12f1d323d.js","185","static/chunks/app/layout-249ad676f5511e46.js"],"default"]
+13:I[2972,["972","static/chunks/972-11fe03f12f1d323d.js","931","static/chunks/app/page-1c1cc3d043590a89.js"],""]
+3:T64e,<h1>Styling Notes</h1>
+<p>Winter doesn&#39;t mean sacrificing style for warmth. This monochromatic look features a luxurious wool coat over sleek black separates, creating a timeless, elegant silhouette that works from day to night.</p>
+<p>The magic is in the tailoring—a well-fitted coat is winter&#39;s most important investment. Paired with streamlined pieces underneath, it creates a polished, put-together look that feels effortless.</p>
+<p><strong>Perfect for:</strong> Holiday parties, winter dinners, office events, city walks</p>
+<h2>Tips</h2>
+<ul>
+<li><strong>Tip 1</strong>: Invest in a quality wool coat—it&#39;s the foundation of your winter wardrobe</li>
+<li><strong>Tip 2</strong>: Monochrome dressing elongates your silhouette and looks instantly sophisticated</li>
+<li><strong>Tip 3</strong>: Add texture with different fabrics (wool, cashmere, leather) to keep all-black interesting</li>
+</ul>
+<h2>Shop The Look</h2>
+<ul>
+<li><strong>Wool Blend Coat</strong> - COS - <a href="https://www.cosstores.com">https://www.cosstores.com</a> - $29.00</li>
+<li><strong>Cashmere Turtleneck</strong> - Everlane - <a href="https://www.everlane.com">https://www.everlane.com</a> - $10.00</li>
+<li><strong>Tailored Trousers</strong> - Aritzia - <a href="https://www.aritzia.com">https://www.aritzia.com</a> - $14.00</li>
+<li><strong>Leather Knee Boots</strong> - Stuart Weitzman - <a href="https://www.stuartweitzman.com">https://www.stuartweitzman.com</a> - $59.00</li>
+<li><strong>Leather Gloves</strong> - Nordstrom - <a href="https://www.nordstrom.com">https://www.nordstrom.com</a> - $48.00</li>
+</ul>
+4:T5f7,<h1>Styling Notes</h1>
+<p>Travel outfits need to work hard—comfortable for long flights yet stylish enough for impromptu photos. This look masters the balance with stretchy joggers, a soft tee, and an elevated trench coat.</p>
+<p>The layering is strategic: easy to adjust for temperature changes, comfortable for sitting, and polished enough that you feel put together. Slip-on shoes are essential for airport security.</p>
+<p><strong>Perfect for:</strong> Flights, road trips, train journeys, airport lounges</p>
+<h2>Tips</h2>
+<ul>
+<li><strong>Tip 1</strong>: Choose pieces with stretch—you&#39;ll be sitting for hours and need comfort</li>
+<li><strong>Tip 2</strong>: Layer strategically so you can adjust to changing temperatures</li>
+<li><strong>Tip 3</strong>: Slip-on shoes are a must for airport security but choose ones that look polished</li>
+</ul>
+<h2>Shop The Look</h2>
+<ul>
+<li><strong>Trench Coat</strong> - Everlane - <a href="https://www.everlane.com">https://www.everlane.com</a> - $198.00</li>
+<li><strong>Soft Joggers</strong> - Aritzia - <a href="https://www.aritzia.com">https://www.aritzia.com</a> - $88.00</li>
+<li><strong>Relaxed Tee</strong> - Everlane - <a href="https://www.everlane.com">https://www.everlane.com</a> - $28.00</li>
+<li><strong>Slip-On Sneakers</strong> - Veja - <a href="https://www.veja-store.com">https://www.veja-store.com</a> - $115.00</li>
+<li><strong>Crossbody Bag</strong> - Longchamp - <a href="https://www.longchamp.com">https://www.longchamp.com</a> - $155.00</li>
+</ul>
+5:T5f7,<h1>Styling Notes</h1>
+<p>When it&#39;s time to make an entrance, nothing beats a statement piece. This sequined blazer over a sleek slip dress creates the perfect balance between edgy and elegant—party-ready while maintaining sophistication.</p>
+<p>The key is mixing textures: structured blazer, silky slip dress, and metallic accessories. This creates visual interest and elevates the look beyond basic party attire.</p>
+<p><strong>Perfect for:</strong> Cocktail parties, holiday events, birthdays, girls&#39; night out</p>
+<h2>Tips</h2>
+<ul>
+<li><strong>Tip 1</strong>: Balance a statement top with simpler bottoms—let one piece be the star</li>
+<li><strong>Tip 2</strong>: Metallic accessories complement sequins without competing for attention</li>
+<li><strong>Tip 3</strong>: Keep hair sleek and makeup bold to match the glam energy</li>
+</ul>
+<h2>Shop The Look</h2>
+<ul>
+<li><strong>Sequined Blazer</strong> - Zara - <a href="https://www.zara.com">https://www.zara.com</a> - $129.00</li>
+<li><strong>Silk Slip Dress</strong> - Abercrombie - <a href="https://www.abercrombie.com">https://www.abercrombie.com</a> - $90.00</li>
+<li><strong>Strappy Heels</strong> - Steve Madden - <a href="https://www.stevemadden.com">https://www.stevemadden.com</a> - $99.95</li>
+<li><strong>Mini Clutch</strong> - Mango - <a href="https://www.mango.com">https://www.mango.com</a> - $49.99</li>
+<li><strong>Statement Earrings</strong> - Baublebar - <a href="https://www.baublebar.com">https://www.baublebar.com</a> - $42.00</li>
+</ul>
+6:T68c,<h1>Styling Notes</h1>
+<p>Fall fashion is all about mastering the art of layering. This look combines a chunky knit cardigan over a simple turtleneck, paired with high-waisted trousers for a polished yet comfortable ensemble.</p>
+<p>The camel and cream color palette evokes the warmth of autumn while remaining sophisticated and versatile. The oversized cardigan adds coziness without sacrificing style, and the tucked turtleneck creates a flattering silhouette.</p>
+<p><strong>Perfect for:</strong> Coffee dates, autumn walks, casual Fridays, farmers markets</p>
+<h2>Tips</h2>
+<ul>
+<li><strong>Tip 1</strong>: Layer different knit weights—a thin turtleneck under a chunky cardigan creates dimension</li>
+<li><strong>Tip 2</strong>: Earth tones are fall&#39;s signature, but don&#39;t be afraid to mix warm and cool browns</li>
+<li><strong>Tip 3</strong>: Keep accessories minimal with layered looks to avoid overwhelming the outfit</li>
+</ul>
+<h2>Shop The Look</h2>
+<ul>
+<li><strong>Oversized Knit Cardigan</strong> - &amp; Other Stories - <a href="https://www.stories.com">https://www.stories.com</a> - $129.00</li>
+<li><strong>Ribbed Turtleneck</strong> - Uniqlo - <a href="https://www.uniqlo.com">https://www.uniqlo.com</a> - $29.90</li>
+<li><strong>High-Waisted Wool Trousers</strong> - Massimo Dutti - <a href="https://www.massimodutti.com">https://www.massimodutti.com</a> - $149.00</li>
+<li><strong>Leather Ankle Boots</strong> - Sam Edelman - <a href="https://www.samedelman.com">https://www.samedelman.com</a> - $180.00</li>
+<li><strong>Structured Tote Bag</strong> - Madewell - <a href="https://www.madewell.com">https://www.madewell.com</a> - $168.00</li>
+</ul>
+7:T5dc,<h1>Styling Notes</h1>
+<p>Street style is about attitude as much as clothing. This look pairs a leather jacket with high-waisted denim and chunky boots for an effortlessly cool vibe that photographs beautifully.</p>
+<p>The monochrome palette with black and denim is timeless, while the oversized jacket and chunky accessories add contemporary edge. It&#39;s the perfect formula for looking like you didn&#39;t try too hard.</p>
+<p><strong>Perfect for:</strong> City exploring, concerts, coffee shop hangs, shopping days</p>
+<h2>Tips</h2>
+<ul>
+<li><strong>Tip 1</strong>: A good leather jacket is worth the investment—it elevates everything</li>
+<li><strong>Tip 2</strong>: Mix high and low—pair investment pieces with accessible basics</li>
+<li><strong>Tip 3</strong>: Confidence is everything in street style—own your look</li>
+</ul>
+<h2>Shop The Look</h2>
+<ul>
+<li><strong>Leather Moto Jacket</strong> - AllSaints - <a href="https://www.allsaints.com">https://www.allsaints.com</a> - $429.00</li>
+<li><strong>High-Rise Mom Jeans</strong> - Levi&#39;s - <a href="https://www.levi.com">https://www.levi.com</a> - $98.00</li>
+<li><strong>Basic Tank Top</strong> - H&amp;M - <a href="https://www.hm.com">https://www.hm.com</a> - $9.99</li>
+<li><strong>Combat Boots</strong> - Dr. Martens - <a href="https://www.drmartens.com">https://www.drmartens.com</a> - $170.00</li>
+<li><strong>Chain Shoulder Bag</strong> - Zara - <a href="https://www.zara.com">https://www.zara.com</a> - $45.90</li>
+</ul>
+8:T635,<h1>Styling Notes</h1>
+<p>Professional doesn&#39;t mean boring. This look pairs a classic blazer with modern wide-leg trousers and a silk camisole, creating a sophisticated outfit that commands respect while staying current.</p>
+<p>The neutral palette is intentional—it&#39;s versatile, timeless, and puts the focus on fit and quality. The oversized blazer adds a contemporary edge while maintaining professionalism.</p>
+<p><strong>Perfect for:</strong> Important meetings, presentations, job interviews, networking events</p>
+<h2>Tips</h2>
+<ul>
+<li><strong>Tip 1</strong>: Invest in quality basics—a great blazer and trousers will serve you for years</li>
+<li><strong>Tip 2</strong>: The &quot;third piece&quot; rule: blazer + trousers + silk cami creates instant polish</li>
+<li><strong>Tip 3</strong>: Neutral doesn&#39;t mean dull—play with different shades of beige, cream, and tan</li>
+</ul>
+<h2>Shop The Look</h2>
+<ul>
+<li><strong>Oversized Blazer</strong> - Mango - <a href="https://www.mango.com">https://www.mango.com</a> - $149.99</li>
+<li><strong>Wide-Leg Trousers</strong> - Everlane - <a href="https://www.everlane.com">https://www.everlane.com</a> - $118.00</li>
+<li><strong>Silk Camisole</strong> - Abercrombie - <a href="https://www.abercrombie.com">https://www.abercrombie.com</a> - $70.00</li>
+<li><strong>Pointed Toe Pumps</strong> - Sam Edelman - <a href="https://www.samedelman.com">https://www.samedelman.com</a> - $130.00</li>
+<li><strong>Leather Tote</strong> - Madewell - <a href="https://www.madewell.com">https://www.madewell.com</a> - $198.00</li>
+</ul>
+9:T672,<h1>Styling Notes</h1>
+<p>Date night calls for something special but not overdone. This midi dress with a subtle slit and delicate straps strikes the perfect balance between romantic and confident, appropriate for dinner yet distinctive enough to be memorable.</p>
+<p>The key is in the details: a flattering neckline, a hint of skin with the slit, and the dusty rose color that&#39;s universally flattering. Paired with minimal accessories, it lets your personality shine.</p>
+<p><strong>Perfect for:</strong> Dinner dates, anniversary celebrations, theater nights, rooftop bars</p>
+<h2>Tips</h2>
+<ul>
+<li><strong>Tip 1</strong>: Choose one feature to highlight—here it&#39;s the shoulders and décolletage</li>
+<li><strong>Tip 2</strong>: Confidence is your best accessory—wear what makes you feel beautiful</li>
+<li><strong>Tip 3</strong>: Keep jewelry delicate for date night—you want to look approachable, not overdressed</li>
+</ul>
+<h2>Shop The Look</h2>
+<ul>
+<li><strong>Satin Midi Dress</strong> - Reformation - <a href="https://www.thereformation.com">https://www.thereformation.com</a> - $218.00</li>
+<li><strong>Strappy Heeled Sandals</strong> - Steve Madden - <a href="https://www.stevemadden.com">https://www.stevemadden.com</a> - $89.95</li>
+<li><strong>Mini Crossbody Bag</strong> - Charles &amp; Keith - <a href="https://www.charleskeith.com">https://www.charleskeith.com</a> - $49.00</li>
+<li><strong>Dainty Necklace</strong> - Mejuri - <a href="https://mejuri.com">https://mejuri.com</a> - $88.00</li>
+<li><strong>Simple Hoop Earrings</strong> - Mejuri - <a href="https://mejuri.com">https://mejuri.com</a> - $58.00</li>
+</ul>
+a:T66c,<h1>Styling Notes</h1>
+<p>Nothing says summer like an all-white ensemble. This look pairs a relaxed linen shirt with flowing wide-leg pants, creating effortless sophistication perfect for seaside strolls or beachside dinners.</p>
+<p>The beauty of this look is in the textures—combining structured linen with soft, flowing fabric creates visual interest while keeping things breezy. Minimal accessories let the clean silhouette shine.</p>
+<p><strong>Perfect for:</strong> Beach vacations, coastal walks, sunset dinners, yacht parties</p>
+<h2>Tips</h2>
+<ul>
+<li><strong>Tip 1</strong>: White-on-white works best with different textures—mix linen, cotton, and flowing fabrics</li>
+<li><strong>Tip 2</strong>: Keep undergarments nude or white to maintain the crisp aesthetic</li>
+<li><strong>Tip 3</strong>: Add a pop of gold jewelry or tan accessories to warm up the all-white palette</li>
+</ul>
+<h2>Shop The Look</h2>
+<ul>
+<li><strong>Oversized Linen Shirt</strong> - Everlane - <a href="https://www.everlane.com">https://www.everlane.com</a> - $88.00</li>
+<li><strong>Wide-Leg Linen Pants</strong> - Reformation - <a href="https://www.thereformation.com">https://www.thereformation.com</a> - $128.00</li>
+<li><strong>Woven Raffia Tote</strong> - H&amp;M - <a href="https://www.hm.com">https://www.hm.com</a> - $34.99</li>
+<li><strong>Leather Sandals</strong> - Ancient Greek Sandals - <a href="https://www.ancientgreeksandals.com">https://www.ancientgreeksandals.com</a> - $245.00</li>
+<li><strong>Oversized Sunglasses</strong> - Quay Australia - <a href="https://www.quayaustralia.com">https://www.quayaustralia.com</a> - $65.00</li>
+</ul>
+b:T623,<h1>Styling Notes</h1>
+<p>Wedding guest dressing is an art—you want to look special without upstaging the bride. This floral midi dress strikes the perfect balance with a romantic print and elegant silhouette that photographs beautifully.</p>
+<p>The wrap style is universally flattering and the midi length works for any wedding venue from garden to ballroom. Paired with delicate jewelry and nude heels, it&#39;s effortlessly elegant.</p>
+<p><strong>Perfect for:</strong> Spring/summer weddings, garden parties, formal events</p>
+<h2>Tips</h2>
+<ul>
+<li><strong>Tip 1</strong>: Avoid white, cream, or anything too bridal—let the bride shine</li>
+<li><strong>Tip 2</strong>: Midi length is the sweet spot for wedding guest attire—elegant but not too formal</li>
+<li><strong>Tip 3</strong>: Choose prints over solid colors for outdoor weddings—they photograph beautifully</li>
+</ul>
+<h2>Shop The Look</h2>
+<ul>
+<li><strong>Floral Wrap Dress</strong> - Reformation - <a href="https://www.thereformation.com">https://www.thereformation.com</a> - $248.00</li>
+<li><strong>Block Heel Sandals</strong> - Sam Edelman - <a href="https://www.samedelman.com">https://www.samedelman.com</a> - $140.00</li>
+<li><strong>Pearl Drop Earrings</strong> - Mejuri - <a href="https://mejuri.com">https://mejuri.com</a> - $125.00</li>
+<li><strong>Satin Clutch</strong> - Nordstrom - <a href="https://www.nordstrom.com">https://www.nordstrom.com</a> - $68.00</li>
+<li><strong>Delicate Bracelet</strong> - Mejuri - <a href="https://mejuri.com">https://mejuri.com</a> - $78.00</li>
+</ul>
+c:T624,<h1>Styling Notes</h1>
+<p>Sometimes the best outfits are the simplest. This combination of well-fitted jeans, a classic white tee, and an oversized blazer proves that casual doesn&#39;t mean sloppy. It&#39;s the foundation of a great everyday wardrobe.</p>
+<p>The magic is in the fit and quality—perfectly fitting jeans, a structured blazer, and the right accessories elevate basics into a polished look you&#39;ll reach for again and again.</p>
+<p><strong>Perfect for:</strong> Running errands, coffee with friends, casual Fridays, weekend activities</p>
+<h2>Tips</h2>
+<ul>
+<li><strong>Tip 1</strong>: The &quot;elevated basics&quot; formula: great jeans + simple tee + structured third piece</li>
+<li><strong>Tip 2</strong>: White sneakers or loafers make casual looks feel intentional, not thrown together</li>
+<li><strong>Tip 3</strong>: A good blazer transforms any outfit from casual to polished instantly</li>
+</ul>
+<h2>Shop The Look</h2>
+<ul>
+<li><strong>High-Rise Straight Jeans</strong> - Levi&#39;s - <a href="https://www.levi.com">https://www.levi.com</a> - $98.00</li>
+<li><strong>Classic White Tee</strong> - Everlane - <a href="https://www.everlane.com">https://www.everlane.com</a> - $18.00</li>
+<li><strong>Linen Blazer</strong> - H&amp;M - <a href="https://www.hm.com">https://www.hm.com</a> - $59.99</li>
+<li><strong>White Leather Sneakers</strong> - Veja - <a href="https://www.veja-store.com">https://www.veja-store.com</a> - $120.00</li>
+<li><strong>Tote Bag</strong> - Baggu - <a href="https://baggu.com">https://baggu.com</a> - $38.00</li>
+</ul>
+d:T661,<h1>Styling Notes</h1>
+<p>Spring calls for lightness and movement. This look combines a romantic blouse with high-waisted linen pants for a sophisticated yet relaxed vibe. The key is balancing feminine details with clean, structured pieces.</p>
+<p>The pastel pink creates a fresh, approachable feel while the neutral linen keeps it grounded. Add delicate gold jewelry to elevate the look without overwhelming the softness.</p>
+<p><strong>Perfect for:</strong> Weekend brunch, garden parties, casual dates, spring markets</p>
+<h2>Tips</h2>
+<ul>
+<li><strong>Tip 1</strong>: When wearing pastels, keep makeup natural and dewy for a cohesive spring aesthetic</li>
+<li><strong>Tip 2</strong>: Choose one statement piece—here it&#39;s the blouse—and let everything else complement it</li>
+<li><strong>Tip 3</strong>: Linen pants are spring&#39;s best friend but wrinkle easily, embrace the relaxed texture or steam before wearing</li>
+</ul>
+<h2>Shop The Look</h2>
+<ul>
+<li><strong>Puff Sleeve Blouse</strong> - Zara - <a href="https://www.zara.com">https://www.zara.com</a> - $49.90</li>
+<li><strong>High-Waisted Linen Pants</strong> - Mango - <a href="https://www.mango.com">https://www.mango.com</a> - $69.99</li>
+<li><strong>Strappy Nude Sandals</strong> - Steve Madden - <a href="https://www.stevemadden.com">https://www.stevemadden.com</a> - $79.95</li>
+<li><strong>Mini Crossbody Bag</strong> - Charles &amp; Keith - <a href="https://www.charleskeith.com">https://www.charleskeith.com</a> - $55.00</li>
+<li><strong>Gold Layered Necklace</strong> - Mejuri - <a href="https://mejuri.com">https://mejuri.com</a> - $98.00</li>
+</ul>
+e:T653,<h1>Styling Notes</h1>
+<p>Athleisure has evolved beyond the gym. This coordinated set proves that workout clothes can be stylish enough to wear throughout your day. The matching set creates a put-together look while staying comfortable.</p>
+<p>The neutral earth tones are versatile and flattering, while the high-quality fabrics ensure you look polished whether you&#39;re actually working out or just running errands. Layer with an oversized hoodie or denim jacket for street wear.</p>
+<p><strong>Perfect for:</strong> Gym sessions, yoga class, pilates, running errands, casual weekends</p>
+<h2>Tips</h2>
+<ul>
+<li><strong>Tip 1</strong>: Matching sets create an instantly cohesive look—invest in quality basics</li>
+<li><strong>Tip 2</strong>: Neutral athleisure transitions easily from gym to street with a jacket or sneakers</li>
+<li><strong>Tip 3</strong>: Quality matters in activewear—look for moisture-wicking, stretchy fabrics</li>
+</ul>
+<h2>Shop The Look</h2>
+<ul>
+<li><strong>Sports Bra</strong> - Lululemon - <a href="https://www.lululemon.com">https://www.lululemon.com</a> - $58.00</li>
+<li><strong>High-Waist Leggings</strong> - Lululemon - <a href="https://www.lululemon.com">https://www.lululemon.com</a> - $98.00</li>
+<li><strong>Oversized Hoodie</strong> - Alo Yoga - <a href="https://www.aloyoga.com">https://www.aloyoga.com</a> - $118.00</li>
+<li><strong>Running Sneakers</strong> - Nike - <a href="https://www.nike.com">https://www.nike.com</a> - $130.00</li>
+<li><strong>Gym Bag</strong> - Dagne Dover - <a href="https://www.dagnedover.com">https://www.dagnedover.com</a> - $175.00</li>
+</ul>
+12:T42e,M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z0:["0UiKM5yXxE4dz4mJ0fX5V",[[["",{"children":["looks",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["looks",{"children":["__PAGE__",{},[["$L1",["$","$L2",null,{"looks":[{"slug":"winter-elegance","title":"Winter Elegance","date":"2024-12-05","category":"Winter","season":"Winter","tags":["winter","coat","monochrome","elegant","minimal"],"coverImage":"/images/looks/winter-elegance.jpg","galleryImages":["/images/looks/winter-elegance.jpg","/images/looks/winter-elegance-2.jpg","/images/looks/winter-elegance-3.jpg"],"caption":"Sophisticated monochrome dressing for the coldest season","content":"$3","stylingNotes":"$undefined","tips":"$undefined","shopItems":[{"itemName":"Wool Blend Coat","storeName":"COS","url":"https://w","price":"$undefined"},{"itemName":"Cashmere Turtleneck","storeName":"Everlane","url":"https://w","price":"$undefined"},{"itemName":"Tailored Trousers","storeName":"Aritzia","url":"https://w","price":"$undefined"},{"itemName":"Leather Knee Boots","storeName":"Stuart Weitzman","url":"https://w","price":"$undefined"},{"itemName":"Leather Gloves","storeName":"Nordstrom","url":"https://w","price":"$undefined"}]},{"slug":"travel-style","title":"Jet Set Ready","date":"2024-11-01","category":"Travel","season":"Fall","tags":["travel","airport","comfortable","layers","chic"],"coverImage":"/images/looks/travel-style.jpg","galleryImages":["/images/looks/travel-style.jpg","/images/looks/travel-style-2.jpg","/images/looks/travel-style-3.jpg"],"caption":"Comfortable meets chic for stylish travels","content":"$4","stylingNotes":"$undefined","tips":"$undefined","shopItems":[{"itemName":"Trench Coat","storeName":"Everlane","url":"https://w","price":"$undefined"},{"itemName":"Soft Joggers","storeName":"Aritzia","url":"https://w","price":"$undefined"},{"itemName":"Relaxed Tee","storeName":"Everlane","url":"https://w","price":"$undefined"},{"itemName":"Slip-On Sneakers","storeName":"Veja","url":"https://w","price":"$undefined"},{"itemName":"Crossbody Bag","storeName":"Longchamp","url":"https://w","price":"$undefined"}]},{"slug":"party-glam","title":"Night Out Glam","date":"2024-10-15","category":"Party","season":"Fall","tags":["party","evening","sequins","glamorous","statement"],"coverImage":"/images/looks/party-glam.jpg","galleryImages":["/images/looks/party-glam.jpg","/images/looks/party-glam-2.jpg","/images/looks/party-glam-3.jpg"],"caption":"Sparkle and sophistication for unforgettable nights","content":"$5","stylingNotes":"$undefined","tips":"$undefined","shopItems":[{"itemName":"Sequined Blazer","storeName":"Zara","url":"https://w","price":"$undefined"},{"itemName":"Silk Slip Dress","storeName":"Abercrombie","url":"https://w","price":"$undefined"},{"itemName":"Strappy Heels","storeName":"Steve Madden","url":"https://w","price":"$undefined"},{"itemName":"Mini Clutch","storeName":"Mango","url":"https://w","price":"$undefined"},{"itemName":"Statement Earrings","storeName":"Baublebar","url":"https://w","price":"$undefined"}]},{"slug":"autumn-layers","title":"Autumn Layers","date":"2024-09-20","category":"Fall","season":"Fall","tags":["layering","cozy","earth-tones","knitwear"],"coverImage":"/images/looks/autumn-layers.jpg","galleryImages":["/images/looks/autumn-layers.jpg","/images/looks/autumn-layers-2.jpg","/images/looks/autumn-layers-3.jpg"],"caption":"Embrace rich earth tones and cozy textures as the leaves begin to fall","content":"$6","stylingNotes":"$undefined","tips":"$undefined","shopItems":[{"itemName":"Oversized Knit Cardigan","storeName":"& Other Stories","url":"https://w","price":"$undefined"},{"itemName":"Ribbed Turtleneck","storeName":"Uniqlo","url":"https://w","price":"$undefined"},{"itemName":"High-Waisted Wool Trousers","storeName":"Massimo Dutti","url":"https://w","price":"$undefined"},{"itemName":"Leather Ankle Boots","storeName":"Sam Edelman","url":"https://w","price":"$undefined"},{"itemName":"Structured Tote Bag","storeName":"Madewell","url":"https://w","price":"$undefined"}]},{"slug":"street-style","title":"Urban Edge","date":"2024-09-05","category":"Street Style","season":"Fall","tags":["street-style","edgy","denim","urban","cool"],"coverImage":"/images/looks/street-style.jpg","galleryImages":["/images/looks/street-style.jpg","/images/looks/street-style-2.jpg","/images/looks/street-style-3.jpg"],"caption":"Cool, confident, and camera-ready","content":"$7","stylingNotes":"$undefined","tips":"$undefined","shopItems":[{"itemName":"Leather Moto Jacket","storeName":"AllSaints","url":"https://w","price":"$undefined"},{"itemName":"High-Rise Mom Jeans","storeName":"Levi's","url":"https://w","price":"$undefined"},{"itemName":"Basic Tank Top","storeName":"H&M","url":"https://w","price":"$undefined"},{"itemName":"Combat Boots","storeName":"Dr. Martens","url":"https://w","price":"$undefined"},{"itemName":"Chain Shoulder Bag","storeName":"Zara","url":"https://w","price":"$undefined"}]},{"slug":"office-power","title":"Power Dressing Refined","date":"2024-08-15","category":"Work/Office","season":"Summer","tags":["office","professional","blazer","tailored","workwear"],"coverImage":"/images/looks/office-power.jpg","galleryImages":["/images/looks/office-power.jpg","/images/looks/office-power-2.jpg","/images/looks/office-power-3.jpg"],"caption":"Confident, polished, and ready to conquer the boardroom","content":"$8","stylingNotes":"$undefined","tips":"$undefined","shopItems":[{"itemName":"Oversized Blazer","storeName":"Mango","url":"https://w","price":"$undefined"},{"itemName":"Wide-Leg Trousers","storeName":"Everlane","url":"https://w","price":"$undefined"},{"itemName":"Silk Camisole","storeName":"Abercrombie","url":"https://w","price":"$undefined"},{"itemName":"Pointed Toe Pumps","storeName":"Sam Edelman","url":"https://w","price":"$undefined"},{"itemName":"Leather Tote","storeName":"Madewell","url":"https://w","price":"$undefined"}]},{"slug":"date-night","title":"Date Night Allure","date":"2024-07-10","category":"Date Night","season":"Summer","tags":["date","romantic","dress","evening","feminine"],"coverImage":"/images/looks/date-night.jpg","galleryImages":["/images/looks/date-night.jpg","/images/looks/date-night-2.jpg","/images/looks/date-night-3.jpg"],"caption":"Effortlessly romantic for an unforgettable evening","content":"$9","stylingNotes":"$undefined","tips":"$undefined","shopItems":[{"itemName":"Satin Midi Dress","storeName":"Reformation","url":"https://w","price":"$undefined"},{"itemName":"Strappy Heeled Sandals","storeName":"Steve Madden","url":"https://w","price":"$undefined"},{"itemName":"Mini Crossbody Bag","storeName":"Charles & Keith","url":"https://w","price":"$undefined"},{"itemName":"Dainty Necklace","storeName":"Mejuri","url":"https://m","price":"$undefined"},{"itemName":"Simple Hoop Earrings","storeName":"Mejuri","url":"https://m","price":"$undefined"}]},{"slug":"coastal-summer","title":"Coastal Ease","date":"2024-06-10","category":"Summer","season":"Summer","tags":["beach","vacation","white","linen","effortless"],"coverImage":"/images/looks/coastal-summer.jpg","galleryImages":["/images/looks/coastal-summer.jpg","/images/looks/coastal-summer-2.jpg","/images/looks/coastal-summer-3.jpg"],"caption":"Crisp whites and breezy fabrics for the ultimate coastal escape","content":"$a","stylingNotes":"$undefined","tips":"$undefined","shopItems":[{"itemName":"Oversized Linen Shirt","storeName":"Everlane","url":"https://w","price":"$undefined"},{"itemName":"Wide-Leg Linen Pants","storeName":"Reformation","url":"https://w","price":"$undefined"},{"itemName":"Woven Raffia Tote","storeName":"H&M","url":"https://w","price":"$undefined"},{"itemName":"Leather Sandals","storeName":"Ancient Greek Sandals","url":"https://w","price":"$undefined"},{"itemName":"Oversized Sunglasses","storeName":"Quay Australia","url":"https://w","price":"$undefined"}]},{"slug":"wedding-guest","title":"Garden Wedding Guest","date":"2024-05-20","category":"Wedding Season","season":"Spring","tags":["wedding","formal","floral","romantic","dress"],"coverImage":"/images/looks/wedding-guest.jpg","galleryImages":["/images/looks/wedding-guest.jpg","/images/looks/wedding-guest-2.jpg","/images/looks/wedding-guest-3.jpg"],"caption":"Romantic florals and flowing silhouettes for celebrating love","content":"$b","stylingNotes":"$undefined","tips":"$undefined","shopItems":[{"itemName":"Floral Wrap Dress","storeName":"Reformation","url":"https://w","price":"$undefined"},{"itemName":"Block Heel Sandals","storeName":"Sam Edelman","url":"https://w","price":"$undefined"},{"itemName":"Pearl Drop Earrings","storeName":"Mejuri","url":"https://m","price":"$undefined"},{"itemName":"Satin Clutch","storeName":"Nordstrom","url":"https://w","price":"$undefined"},{"itemName":"Delicate Bracelet","storeName":"Mejuri","url":"https://m","price":"$undefined"}]},{"slug":"casual-everyday","title":"Elevated Everyday","date":"2024-04-25","category":"Casual/Everyday","season":"Spring","tags":["casual","denim","comfortable","versatile","everyday"],"coverImage":"/images/looks/casual-everyday.jpg","galleryImages":["/images/looks/casual-everyday.jpg","/images/looks/casual-everyday-2.jpg","/images/looks/casual-everyday-3.jpg"],"caption":"Effortlessly chic for running errands or meeting friends","content":"$c","stylingNotes":"$undefined","tips":"$undefined","shopItems":[{"itemName":"High-Rise Straight Jeans","storeName":"Levi's","url":"https://w","price":"$undefined"},{"itemName":"Classic White Tee","storeName":"Everlane","url":"https://w","price":"$undefined"},{"itemName":"Linen Blazer","storeName":"H&M","url":"https://w","price":"$undefined"},{"itemName":"White Leather Sneakers","storeName":"Veja","url":"https://w","price":"$undefined"},{"itemName":"Tote Bag","storeName":"Baggu","url":"https://b","price":"$undefined"}]},{"slug":"spring-brunch","title":"Effortless Spring Brunch","date":"2024-03-15","category":"Spring","season":"Spring","tags":["brunch","casual","feminine","pastels"],"coverImage":"/images/looks/spring-brunch.jpg","galleryImages":["/images/looks/spring-brunch.jpg","/images/looks/spring-brunch-2.jpg","/images/looks/spring-brunch-3.jpg"],"caption":"Soft pastels and flowing fabrics for the perfect spring brunch","content":"$d","stylingNotes":"$undefined","tips":"$undefined","shopItems":[{"itemName":"Puff Sleeve Blouse","storeName":"Zara","url":"https://w","price":"$undefined"},{"itemName":"High-Waisted Linen Pants","storeName":"Mango","url":"https://w","price":"$undefined"},{"itemName":"Strappy Nude Sandals","storeName":"Steve Madden","url":"https://w","price":"$undefined"},{"itemName":"Mini Crossbody Bag","storeName":"Charles & Keith","url":"https://w","price":"$undefined"},{"itemName":"Gold Layered Necklace","storeName":"Mejuri","url":"https://m","price":"$undefined"}]},{"slug":"gym-athleisure","title":"Active Chic","date":"2024-02-10","category":"Gym/Athleisure","season":"Winter","tags":["gym","athleisure","activewear","comfortable","sporty"],"coverImage":"/images/looks/gym-athleisure.jpg","galleryImages":["/images/looks/gym-athleisure.jpg","/images/looks/gym-athleisure-2.jpg","/images/looks/gym-athleisure-3.jpg"],"caption":"From studio to street in style","content":"$e","stylingNotes":"$undefined","tips":"$undefined","shopItems":[{"itemName":"Sports Bra","storeName":"Lululemon","url":"https://w","price":"$undefined"},{"itemName":"High-Waist Leggings","storeName":"Lululemon","url":"https://w","price":"$undefined"},{"itemName":"Oversized Hoodie","storeName":"Alo Yoga","url":"https://w","price":"$undefined"},{"itemName":"Running Sneakers","storeName":"Nike","url":"https://w","price":"$undefined"},{"itemName":"Gym Bag","storeName":"Dagne Dover","url":"https://w","price":"$undefined"}]}],"categories":["All","Casual/Everyday","Date Night","Fall","Gym/Athleisure","Party","Spring","Street Style","Summer","Travel","Wedding Season","Winter","Work/Office"]}],null],null],null]},[null,["$","$Lf",null,{"parallelRouterKey":"children","segmentPath":["children","looks","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L10",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d5c73a626e2ad683.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","link",null,{"rel":"icon","href":"/favicon.ico"}]}],["$","body",null,{"children":[["$","$L11",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$Lf",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L10",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-charcoal text-cream","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-4 gap-12","children":[["$","div",null,{"className":"col-span-1 md:col-span-2","children":[["$","h3",null,{"className":"font-display text-2xl mb-4","children":"Fashion with Falaq"}],["$","p",null,{"className":"text-sand mb-6 leading-relaxed","children":"Your destination for personal style inspiration, seasonal lookbooks, and honest fashion advice. Join me on a journey of discovering your signature style."}],["$","div",null,{"className":"flex space-x-4","children":[["$","a",null,{"href":"https://instagram.com","target":"_blank","rel":"noopener noreferrer","className":"text-sand hover:text-rose transition-colors","aria-label":"Instagram","children":["$","svg",null,{"className":"w-6 h-6","fill":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"d":"$12"}]}]}],["$","a",null,{"href":"https://pinterest.com","target":"_blank","rel":"noopener noreferrer","className":"text-sand hover:text-rose transition-colors","aria-label":"Pinterest","children":["$","svg",null,{"className":"w-6 h-6","fill":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"d":"M12 0c-6.627 0-12 5.372-12 12 0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738.098.119.112.224.083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.631-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146 1.124.347 2.317.535 3.554.535 6.627 0 12-5.373 12-12 0-6.628-5.373-12-12-12z"}]}]}],["$","a",null,{"href":"https://tiktok.com","target":"_blank","rel":"noopener noreferrer","className":"text-sand hover:text-rose transition-colors","aria-label":"TikTok","children":["$","svg",null,{"className":"w-6 h-6","fill":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"d":"M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-5.2 1.74 2.89 2.89 0 0 1 2.31-4.64 2.93 2.93 0 0 1 .88.13V9.4a6.84 6.84 0 0 0-1-.05A6.33 6.33 0 0 0 5 20.1a6.34 6.34 0 0 0 10.86-4.43v-7a8.16 8.16 0 0 0 4.77 1.52v-3.4a4.85 4.85 0 0 1-1-.1z"}]}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display text-lg mb-4","children":"Explore"}],["$","ul",null,{"className":"space-y-3","children":[["$","li",null,{"children":["$","$L13",null,{"href":"/looks","className":"text-sand hover:text-rose transition-colors","children":"Looks"}]}],["$","li",null,{"children":["$","$L13",null,{"href":"/blog","className":"text-sand hover:text-rose transition-colors","children":"Blog"}]}],["$","li",null,{"children":["$","$L13",null,{"href":"/about","className":"text-sand hover:text-rose transition-colors","children":"About"}]}],["$","li",null,{"children":["$","$L13",null,{"href":"/work-with-me","className":"text-sand hover:text-rose transition-colors","children":"Work With Me"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-display text-lg mb-4","children":"Connect"}],["$","ul",null,{"className":"space-y-3","children":[["$","li",null,{"children":["$","$L13",null,{"href":"/contact","className":"text-sand hover:text-rose transition-colors","children":"Contact Me"}]}],["$","li",null,{"children":["$","$L13",null,{"href":"/privacy","className":"text-sand hover:text-rose transition-colors","children":"Privacy & Disclaimer"}]}]]}]]}]]}],["$","div",null,{"className":"border-t border-warm-gray mt-12 pt-8 flex flex-col md:flex-row justify-between items-center","children":[["$","p",null,{"className":"text-sand text-sm","children":["© ",2026," Fashion with Falaq. All rights reserved."]}],["$","p",null,{"className":"text-sand text-sm mt-4 md:mt-0","children":"Designed with love for fashion enthusiasts everywhere"}]]}]]}]}]]}]]}]],null],null],["$L14",null]]]]
+14:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Fashion with Falaq | Personal Style Blog & Lookbook"}],["$","meta","3",{"name":"description","content":"Fashion consultant and model Falaq shares styling tips, seasonal looks, and shoppable outfit inspiration."}],["$","meta","4",{"name":"author","content":"Falaq"}],["$","meta","5",{"name":"keywords","content":"fashion blog, style tips, lookbook, fashion consultant, outfit inspiration, seasonal style"}],["$","meta","6",{"property":"og:title","content":"Fashion with Falaq"}],["$","meta","7",{"property":"og:description","content":"Personal style blog and shoppable lookbook"}],["$","meta","8",{"property":"og:image","content":"http://localhost:3000/images/og-image.jpg"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Fashion with Falaq"}],["$","meta","12",{"name":"twitter:description","content":"Personal style blog and shoppable lookbook"}],["$","meta","13",{"name":"twitter:image","content":"http://localhost:3000/images/og-image.jpg"}]]
+1:null
