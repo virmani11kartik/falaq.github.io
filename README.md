@@ -2,7 +2,7 @@
 
 A modern, elegant fashion blog and lookbook website for fashion consultant Falaq. Built with Next.js 14, TypeScript, and Tailwind CSS.
 
-## ✨ Features
+## Features
 
 - **Lookbook**: Shoppable outfit inspiration organized by season and occasion
 - **Blog**: Fashion tips, style guides, and advice articles
@@ -12,13 +12,13 @@ A modern, elegant fashion blog and lookbook website for fashion consultant Falaq
 - **Markdown Content**: Easy content management with markdown files
 - **Editorial Design**: Warm, minimal aesthetic with Playfair Display and Karla fonts
 
-## 🎨 Design System
+## Design System
 
 - **Colors**: Cream, sand, taupe, charcoal, and dusty rose
 - **Typography**: Playfair Display (headings) + Karla (body)
 - **Style**: Editorial, warm, minimal, professional
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 fashion-with-falaq/
@@ -42,7 +42,7 @@ fashion-with-falaq/
     └── images/          # Image files
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -71,7 +71,7 @@ npm run build
 npm run start
 ```
 
-## 📝 Content Management
+##  Content Management
 
 ### Adding a New Look
 
@@ -120,7 +120,7 @@ excerpt: "Brief excerpt"
 Your blog content here in markdown...
 ```
 
-## 🎯 Categories
+##  Categories
 
 ### Look Categories
 - Spring, Summer, Fall, Winter (Seasons)
@@ -134,7 +134,7 @@ Your blog content here in markdown...
 - Style Philosophy
 - Sustainable Style
 
-## 🖼️ Images
+##  Images
 
 Place images in the appropriate `public/images/` subdirectories:
 - `/public/images/looks/` - Lookbook photos
@@ -143,7 +143,7 @@ Place images in the appropriate `public/images/` subdirectories:
 
 Images are referenced in markdown using paths like `/images/looks/filename.jpg`
 
-## 🔧 Customization
+##  Customization
 
 ### Colors
 Edit `tailwind.config.js` to modify the color scheme:
@@ -162,7 +162,7 @@ colors: {
 ### Fonts
 Fonts are imported in `app/globals.css`. To change fonts, update the Google Fonts import and Tailwind configuration.
 
-## 📱 Pages
+##  Pages
 
 - `/` - Homepage with featured looks and blog posts
 - `/looks` - Lookbook hub with filtering
@@ -174,7 +174,7 @@ Fonts are imported in `app/globals.css`. To change fonts, update the Google Font
 - `/contact` - Contact form
 - `/privacy` - Privacy policy and affiliate disclosure
 
-## 🌐 SEO
+##  SEO
 
 Each page includes:
 - Custom meta titles and descriptions
@@ -182,7 +182,7 @@ Each page includes:
 - Semantic HTML structure
 - Descriptive alt text (when images are added)
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Framework**: Next.js 14 (App Router)
 - **Language**: TypeScript
@@ -190,11 +190,11 @@ Each page includes:
 - **Content**: Markdown with gray-matter
 - **Fonts**: Google Fonts (Playfair Display, Karla)
 
-## 📄 License
+##  License
 
 This project is created for Falaq's personal fashion blog.
 
-## 🙋‍♀️ Support
+##  Support
 
 For questions or issues, contact: hello@fashionwithfalaq.com
 
