@@ -161,7 +161,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* CTA Section */}
+      {/* CTA Section
       <section className="py-20 px-4 bg-gradient-to-br from-rose/20 to-sand/40">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="font-display text-4xl md:text-5xl text-charcoal mb-6">
@@ -178,7 +178,7 @@ export default function Home() {
             Work With Me
           </Link>
         </div>
-      </section>
+      </section> */}
     </div>
   );
 }
