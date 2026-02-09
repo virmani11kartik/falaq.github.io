@@ -1,8 +1,8 @@
-// File: /home/kartik/falaq.github.io/app/work-with-me/page.tsx
-import * as entry from '../../../../app/work-with-me/page.js'
+// File: /home/kartik/falaq.github.io/app/looks/[slug]/page.tsx
+import * as entry from '../../../../../app/looks/[slug]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
-type TEntry = typeof import('../../../../app/work-with-me/page.js')
+type TEntry = typeof import('../../../../../app/looks/[slug]/page.js')
 
 // Check that the entry is a valid entry
 checkFields<Diff<{
