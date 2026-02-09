@@ -9,7 +9,7 @@ coverImage: "/images/looks/gym-athleisure.jpg"
 galleryImages:
   - "/images/looks/gym-athleisure.jpg"
   - "/images/looks/gym-athleisure-2.jpg"
-  - "/images/looks/gym-athleisure-3.jpg"
+  - "/images/looks/gym-athleisure-3.mp4"
 caption: "From studio to street in style"
 ---
 

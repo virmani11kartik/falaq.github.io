@@ -133,4 +133,4 @@ For issues or questions:
 
 ---
 
-Happy styling! 👗✨
+Happy styling! 
