@@ -22,7 +22,13 @@ export default function AboutPage() {
         {/* Profile Image */}
         <div className="relative w-64 h-64 mx-auto mb-12 rounded-full bg-sand overflow-hidden animate-scale-in">
           <div className="absolute inset-0 flex items-center justify-center text-warm-gray">
-            <p className="text-center">Falaq Profile Photo</p>
+            {/* <p className="text-center">Falaq Profile Photo</p> */}
+            <img 
+              src="/images/hero/profile2.jpg" 
+              alt="Fashion with Falaq" 
+              /* zoom out*/
+              className="w-full h-full object-cover object-[80%_40%] transform scale-55"
+            />
           </div>
         </div>
 

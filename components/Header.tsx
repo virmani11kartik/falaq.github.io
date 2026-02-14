@@ -5,7 +5,6 @@ import { useState } from 'react';
 
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
-  const [looksDropdownOpen, setLooksDropdownOpen] = useState(false);
 
   return (
     <header className="sticky top-0 z-50 bg-cream/95 backdrop-blur-sm border-b border-sand">
@@ -20,72 +19,12 @@ export default function Header() {
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">
-            <div className="relative group">
-              <button
-                className="font-body text-warm-gray hover:text-charcoal transition-colors py-2"
-                onMouseEnter={() => setLooksDropdownOpen(true)}
-                onMouseLeave={() => setLooksDropdownOpen(false)}
-              >
-                Looks
-              </button>
-              {looksDropdownOpen && (
-                <div
-                  className="absolute top-full left-0 mt-2 w-48 bg-white rounded-lg shadow-lg py-2 animate-fade-in"
-                  onMouseEnter={() => setLooksDropdownOpen(true)}
-                  onMouseLeave={() => setLooksDropdownOpen(false)}
-                >
-                  <Link
-                    href="/looks"
-                    className="block px-4 py-2 text-warm-gray hover:bg-sand hover:text-charcoal transition-colors"
-                  >
-                    All Looks
-                  </Link>
-                  <Link
-                    href="/looks?category=Spring"
-                    className="block px-4 py-2 text-warm-gray hover:bg-sand hover:text-charcoal transition-colors"
-                  >
-                    Spring
-                  </Link>
-                  <Link
-                    href="/looks?category=Summer"
-                    className="block px-4 py-2 text-warm-gray hover:bg-sand hover:text-charcoal transition-colors"
-                  >
-                    Summer
-                  </Link>
-                  <Link
-                    href="/looks?category=Fall"
-                    className="block px-4 py-2 text-warm-gray hover:bg-sand hover:text-charcoal transition-colors"
-                  >
-                    Fall
-                  </Link>
-                  <Link
-                    href="/looks?category=Winter"
-                    className="block px-4 py-2 text-warm-gray hover:bg-sand hover:text-charcoal transition-colors"
-                  >
-                    Winter
-                  </Link>
-                  <div className="border-t border-sand my-2"></div>
-                  <Link
-                    href="/looks?category=Party"
-                    className="block px-4 py-2 text-warm-gray hover:bg-sand hover:text-charcoal transition-colors"
-                  >
-                    Party
-                  </Link>
-                  <Link
-                    href="/looks?category=Wedding Season"
-                    className="block px-4 py-2 text-warm-gray hover:bg-sand hover:text-charcoal transition-colors"
-                  >
-                    Wedding
-                  </Link>
-                  <Link
-                    href="/looks?category=Work/Office"
-                    className="block px-4 py-2 text-warm-gray hover:bg-sand hover:text-charcoal transition-colors"
-                  >
-                    Work
-                  </Link>
-                </div>
-              )}
-            </div>
+            <Link
+              href="/looks"
+              className="font-body text-warm-gray hover:text-charcoal transition-colors"
+            >
+              Looks
+            </Link>
             <Link
               href="/blog"
               className="font-body text-warm-gray hover:text-charcoal transition-colors"
