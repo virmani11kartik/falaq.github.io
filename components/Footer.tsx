@@ -27,7 +27,7 @@ export default function Footer() {
                 </svg>
               </a>
               <a
-                href="https://pinterest.com"
+                href="https://pin.it/2AQwPHGcQ"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sand hover:text-rose transition-colors"
