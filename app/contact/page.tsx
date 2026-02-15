@@ -11,9 +11,9 @@ export default function ContactPage() {
   });
   const [submitted, setSubmitted] = useState(false);
 
-  const handleSubmit = (e: React.FormEvent) => {
-    e.preventDefault();
-    // In a real application, this would send the form data to a backend
+  // const handleSubmit = (e: React.FormEvent) => {
+  //   e.preventDefault();
+  //   In a real application, this would send the form data to a backend
   //   console.log('Form submitted:', formData);
   //   setSubmitted(true);
   //   setTimeout(() => {
@@ -283,5 +283,4 @@ export default function ContactPage() {
       </div>
     </div>
   );
-}
 }
