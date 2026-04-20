@@ -1,51 +1,56 @@
 'use client';
 
 import Link from 'next/link';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
+
+const navLinks = [
+  { href: '/looks', label: 'Looks' },
+  { href: '/blog', label: 'Blog' },
+  { href: '/about', label: 'About' },
+  { href: '/work-with-me', label: 'Work With Me' },
+];
 
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [scrolled, setScrolled] = useState(false);
+
+  useEffect(() => {
+    const handleScroll = () => setScrolled(window.scrollY > 40);
+    window.addEventListener('scroll', handleScroll, { passive: true });
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
 
   return (
-    <header className="sticky top-0 z-50 bg-cream/95 backdrop-blur-sm border-b border-sand">
+    <header
+      className={`sticky top-0 z-50 transition-all duration-500 ${
+        scrolled
+          ? 'bg-cream/96 backdrop-blur-md border-b border-sand/80 shadow-sm'
+          : 'bg-cream/85 backdrop-blur-sm border-b border-sand/40'
+      }`}
+    >
       <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-20">
           {/* Logo */}
-          <Link href="/" className="flex items-center group">
-            <span className="font-display text-2xl md:text-3xl text-charcoal group-hover:text-rose transition-colors">
-              Fashion with Falaq
+          <Link href="/" className="group">
+            <span className="font-display text-2xl md:text-3xl text-charcoal tracking-wide group-hover:text-rose transition-colors duration-300">
+              Fashion <i>with</i> Falaq
             </span>
           </Link>
 
           {/* Desktop Navigation */}
-          <div className="hidden md:flex items-center space-x-8">
-            <Link
-              href="/looks"
-              className="font-body text-warm-gray hover:text-charcoal transition-colors"
-            >
-              Looks
-            </Link>
-            <Link
-              href="/blog"
-              className="font-body text-warm-gray hover:text-charcoal transition-colors"
-            >
-              Blog
-            </Link>
-            <Link
-              href="/about"
-              className="font-body text-warm-gray hover:text-charcoal transition-colors"
-            >
-              About
-            </Link>
-            <Link
-              href="/work-with-me"
-              className="font-body text-warm-gray hover:text-charcoal transition-colors"
-            >
-              Work With Me
-            </Link>
+          <div className="hidden md:flex items-center space-x-9">
+            {navLinks.map((item) => (
+              <Link
+                key={item.href}
+                href={item.href}
+                className="nav-link font-body text-xs tracking-widest uppercase text-warm-gray hover:text-charcoal transition-colors"
+              >
+                {item.label}
+              </Link>
+            ))}
             <Link
               href="/contact"
-              className="px-6 py-2 bg-charcoal text-cream rounded-full hover:bg-rose hover:text-white transition-all"
+              className="px-6 py-2.5 border border-charcoal text-charcoal text-xs tracking-widest uppercase hover:bg-charcoal hover:text-cream transition-all duration-300"
             >
               Contact
             </Link>
@@ -53,16 +58,16 @@ export default function Header() {
 
           {/* Mobile Menu Button */}
           <button
-            className="md:hidden p-2"
+            className="md:hidden p-2 text-charcoal"
             onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
             aria-label="Toggle menu"
           >
             <svg
-              className="w-6 h-6 text-charcoal"
+              className="w-6 h-6"
               fill="none"
               strokeLinecap="round"
               strokeLinejoin="round"
-              strokeWidth="2"
+              strokeWidth="1.5"
               viewBox="0 0 24 24"
               stroke="currentColor"
             >
@@ -77,38 +82,20 @@ export default function Header() {
 
         {/* Mobile Menu */}
         {mobileMenuOpen && (
-          <div className="md:hidden py-4 border-t border-sand animate-slide-up">
-            <Link
-              href="/looks"
-              className="block py-3 text-warm-gray hover:text-charcoal transition-colors"
-              onClick={() => setMobileMenuOpen(false)}
-            >
-              Looks
-            </Link>
-            <Link
-              href="/blog"
-              className="block py-3 text-warm-gray hover:text-charcoal transition-colors"
-              onClick={() => setMobileMenuOpen(false)}
-            >
-              Blog
-            </Link>
-            <Link
-              href="/about"
-              className="block py-3 text-warm-gray hover:text-charcoal transition-colors"
-              onClick={() => setMobileMenuOpen(false)}
-            >
-              About
-            </Link>
-            <Link
-              href="/work-with-me"
-              className="block py-3 text-warm-gray hover:text-charcoal transition-colors"
-              onClick={() => setMobileMenuOpen(false)}
-            >
-              Work With Me
-            </Link>
+          <div className="md:hidden py-6 border-t border-sand animate-slide-up space-y-1">
+            {navLinks.map((item) => (
+              <Link
+                key={item.href}
+                href={item.href}
+                className="block py-3 text-xs tracking-widest uppercase text-warm-gray hover:text-charcoal transition-colors"
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                {item.label}
+              </Link>
+            ))}
             <Link
               href="/contact"
-              className="block py-3 text-charcoal font-medium hover:text-rose transition-colors"
+              className="block py-3 text-xs tracking-widest uppercase text-charcoal font-medium hover:text-rose transition-colors"
               onClick={() => setMobileMenuOpen(false)}
             >
               Contact
