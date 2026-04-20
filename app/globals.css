@@ -1,16 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Karla:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500;1,600&family=Karla:wght@300;400;500;600;700&display=swap');
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 :root {
-  --cream: #FAF8F5;
-  --sand: #E8E3DC;
+  --cream: #FDFAF6;
+  --ivory: #FAF8F5;
+  --sand: #EDE8E0;
   --taupe: #B5A99A;
-  --charcoal: #2B2B2B;
-  --rose: #D4A59A;
-  --warm-gray: #5C5551;
+  --charcoal: #1E1E1E;
+  --midnight: #111111;
+  --rose: #C9987D;
+  --gold: #C9A96E;
+  --warm-gray: #6B6460;
 }
 
 * {
@@ -38,16 +41,16 @@ body {
 
 /* Custom scrollbar */
 ::-webkit-scrollbar {
-  width: 8px;
+  width: 5px;
 }
 
 ::-webkit-scrollbar-track {
-  background: var(--sand);
+  background: var(--ivory);
 }
 
 ::-webkit-scrollbar-thumb {
   background: var(--taupe);
-  border-radius: 4px;
+  border-radius: 0;
 }
 
 ::-webkit-scrollbar-thumb:hover {
@@ -56,32 +59,74 @@ body {
 
 /* Image loading effect */
 img {
-  transition: opacity 0.3s ease;
+  transition: opacity 0.4s ease;
 }
 
 /* Smooth transitions */
 a, button {
-  transition: all 0.2s ease;
+  transition: all 0.25s ease;
 }
 
-/* Focus styles for accessibility */
+/* Focus styles */
 a:focus-visible,
 button:focus-visible {
-  outline: 2px solid var(--rose);
-  outline-offset: 2px;
+  outline: 1px solid var(--rose);
+  outline-offset: 3px;
+}
+
+/* Nav link underline expand animation */
+.nav-link {
+  position: relative;
+  padding-bottom: 2px;
+}
+
+.nav-link::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 1px;
+  background-color: var(--charcoal);
+  transition: width 0.3s ease;
+}
+
+.nav-link:hover::after {
+  width: 100%;
+}
+
+/* Elegant section ornament — thin lines flanking a word */
+.ornament {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  font-size: 0.7rem;
+  color: var(--taupe);
+}
+
+.ornament::before,
+.ornament::after {
+  content: '';
+  display: block;
+  height: 1px;
+  width: 36px;
+  background: var(--taupe);
 }
 
 /* Markdown content styles */
 .prose h1, .prose h2, .prose h3 {
-  font-family: 'Playfair Display', Georgia, serif;
+  font-family: 'Cormorant Garamond', Georgia, serif;
   color: var(--charcoal);
-  margin-top: 2rem;
+  margin-top: 2.5rem;
   margin-bottom: 1rem;
+  letter-spacing: 0.01em;
 }
 
 .prose p {
-  margin-bottom: 1.5rem;
-  line-height: 1.8;
+  margin-bottom: 1.6rem;
+  line-height: 1.85;
   color: var(--warm-gray);
 }
 
@@ -106,22 +151,24 @@ button:focus-visible {
 }
 
 .prose blockquote {
-  border-left: 3px solid var(--rose);
-  padding-left: 1.5rem;
-  margin: 2rem 0;
+  border-left: 1px solid var(--rose);
+  padding-left: 1.75rem;
+  margin: 2.5rem 0;
   font-style: italic;
   color: var(--warm-gray);
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 1.25rem;
+  line-height: 1.7;
 }
 
 .prose img {
-  border-radius: 8px;
   margin: 2rem 0;
 }
 
-/* Animation delays for staggered effects */
-.stagger-1 { animation-delay: 0.1s; }
-.stagger-2 { animation-delay: 0.2s; }
-.stagger-3 { animation-delay: 0.3s; }
-.stagger-4 { animation-delay: 0.4s; }
-.stagger-5 { animation-delay: 0.5s; }
-.stagger-6 { animation-delay: 0.6s; }
+/* Stagger animation delays */
+.stagger-1 { animation-delay: 0.1s; animation-fill-mode: both; }
+.stagger-2 { animation-delay: 0.22s; animation-fill-mode: both; }
+.stagger-3 { animation-delay: 0.36s; animation-fill-mode: both; }
+.stagger-4 { animation-delay: 0.50s; animation-fill-mode: both; }
+.stagger-5 { animation-delay: 0.65s; animation-fill-mode: both; }
+.stagger-6 { animation-delay: 0.80s; animation-fill-mode: both; }
